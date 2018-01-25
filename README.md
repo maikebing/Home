@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to MaiKeBing's Blogs
 
-You can use the [editor on GitHub](https://github.com/maikebing/maikebing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, everyone, as you can see, My nick is maikebing(by english , wheat shell cake),other nick name is MysticBoy, Chinese named  Yanhong Ma, I work in a company that provides software solutions for Xinjiang Highway Bureau..
+嗨， 大家好， 正如你看到的 我的网名叫麦壳饼，还有一个叫 MysticBoy 中文名字叫马燕洪 ，我在一家专门为新疆公路部门提供软件解决方案的公司工作。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When I encounter any problems, I like open source solution, at the same time, I am keen to contribute to the open source community,So I want to list some of the projects I'm involved in, and when I'm old enough to write code, these will be my best memories.
+当我遇到任何问题 都喜欢使用开源解决方案， 与此同时， 我也为开源社区添砖加瓦 因此我想把我参与的一些项目列在这里 ， 当我老到不能写代码的时候  这一切将是我最美好的回忆。 
 
-### Markdown
+### GitLab Extension for Visual Studio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The  GitLab Extension for Visual Studio provides GitLab integration in Visual Studio 2015/2017. Most of the extension UI lives in the Team Explorer pane, which is available from the View menu.The Visual Studio Extension is also available at the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MysticBoy.GitLabExtensionforVisualStudio), or by searching for RESX in the Visual Studio extension manager. The latest build of the Visual Studio Extension is available at the [Open VsixGallery](http://vsixgallery.com/extension/54803a44-49e0-4935-bba4-7d7d91682273/)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Gitea Extension for Visual Studio
 
-1. Numbered
-2. List
+The  Gitea Extension for Visual Studio provides Gitea integration in Visual Studio 2015/2017. Most of the extension UI lives in the Team Explorer pane, which is available from the View menu.The Visual Studio Extension is also available at the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MysticBoy.GiteaExtensionforVisualStudio), or by searching for RESX in the Visual Studio extension manager. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Localized  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Wax An interactive editor for WiX Toolset setup projects.  https://github.com/tom-englert/Wax
 
-### Jekyll Themes
+### Contributed
+ - Diagram.NET   Diagram.NET is a free open-source diagramming tools written entirely in C#.  https://github.com/dalssoft/diagramnet 
+ - ICSharpCode.TextEditorEx  Extended version based on ICSharpCode.TextEditor which supports    https://github.com/StefH/ICSharpCode.TextEditorEx 
+ - NGitLab  NGitLab is a .NET REST client implementation of GitLab API with no external dependencies.    https://github.com/maikebing/NGitLab  
+- gitea.net .NET Library for the Gitea API.   https://github.com/mkloubert/gitea.net
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maikebing/maikebing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
