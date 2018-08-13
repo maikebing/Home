@@ -1,9 +1,16 @@
 ## Welcome to MaiKeBing's Blogs
 
+July 11, 2018, I came to Beijing, thanks to the open source community to help, so I hope to be able to do more for the community to contribute. 
+
+2018年七月11日， 我来到了北京 感谢开源社区网友的帮忙， 因此 我希望能为社区做更多奉献。 
+
+
 Hi, everyone, as you can see, My nick is maikebing(by english , wheat shell cake),other nick name is MysticBoy, Chinese named  Yanhong Ma, I work in a company that provides software solutions for Xinjiang Highway Bureau..
+
 嗨， 大家好， 正如你看到的 我的网名叫麦壳饼，还有一个叫 MysticBoy 中文名字叫马燕洪 ，我在一家专门为新疆公路部门提供软件解决方案的公司工作。
 
 When I encounter any problems, I like open source solution, at the same time, I am keen to contribute to the open source community,So I want to list some of the projects I'm involved in, and when I'm old enough to write code, these will be my best memories.
+
 当我遇到任何问题 都喜欢使用开源解决方案， 与此同时， 我也为开源社区添砖加瓦 因此我想把我参与的一些项目列在这里 ， 当我老到不能写代码的时候  这一切将是我最美好的回忆。 
 
 ### GitLab Extension for Visual Studio
@@ -19,7 +26,10 @@ The  Gitea Extension for Visual Studio provides Gitea integration in Visual Stud
 
 ### Localized  
 
-Wax An interactive editor for WiX Toolset setup projects.  https://github.com/tom-englert/Wax
+ - Wax An interactive editor for WiX Toolset setup projects.  https://github.com/tom-englert/Wax
+ - GitHub Extension for Visual Studio   https://github.com/github/VisualStudio
+ - CodeMaid   https://github.com/codecadwallader/codemaid 
+
 
 ### Contributed
  - Diagram.NET   Diagram.NET is a free open-source diagramming tools written entirely in C#.  https://github.com/dalssoft/diagramnet 
