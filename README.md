@@ -1,13 +1,21 @@
 ## Welcome to MaiKeBing's Blogs
 
+Hi, everyone, as you can see, My nick is maikebing(by english , wheat shell cake),other nick name is MysticBoy, Chinese named  Yanhong Ma。
+
+嗨， 大家好， 正如你看到的 我的网名叫麦壳饼，还有一个叫 MysticBoy 中文名字叫马燕洪 ，
+
+
+
 July 11, 2018, I came to Beijing, thanks to the open source community to help, so I hope to be able to do more for the community to contribute. 
 
 2018年七月11日， 我来到了北京 感谢开源社区网友的帮忙， 因此 我希望能为社区做更多奉献。 
 
 
-Hi, everyone, as you can see, My nick is maikebing(by english , wheat shell cake),other nick name is MysticBoy, Chinese named  Yanhong Ma, I work in a company that provides software solutions for Xinjiang Highway Bureau..
+March 2007 to July 2018：
 
-嗨， 大家好， 正如你看到的 我的网名叫麦壳饼，还有一个叫 MysticBoy 中文名字叫马燕洪 ，我在一家专门为新疆公路部门提供软件解决方案的公司工作。
+I work in a company that provides software solutions for Xinjiang Highway Bureau..
+
+我在一家专门为新疆公路部门提供软件解决方案的公司工作。
 
 When I encounter any problems, I like open source solution, at the same time, I am keen to contribute to the open source community,So I want to list some of the projects I'm involved in, and when I'm old enough to write code, these will be my best memories.
 
@@ -26,9 +34,10 @@ The  Gitea Extension for Visual Studio provides Gitea integration in Visual Stud
 
 ### Localized  
 
- - Wax An interactive editor for WiX Toolset setup projects.  https://github.com/tom-englert/Wax
- - GitHub Extension for Visual Studio   https://github.com/github/VisualStudio
- - CodeMaid   https://github.com/codecadwallader/codemaid 
+ - Wax An interactive editor for WiX Toolset setup projects. https://github.com/tom-englert/Wax/pulls?q=is%3Apr+author%3Amaikebing
+ - GitHub Extension for Visual Studio   https://github.com/github/VisualStudio/pull/1714 
+ - CodeMaid   https://github.com/codecadwallader/codemaid/pull/506 
+ - ILSpy  https://github.com/icsharpcode/ILSpy/pull/1299
 
 
 ### Contributed
@@ -36,4 +45,5 @@ The  Gitea Extension for Visual Studio provides Gitea integration in Visual Stud
  - ICSharpCode.TextEditorEx  Extended version based on ICSharpCode.TextEditor which supports    https://github.com/StefH/ICSharpCode.TextEditorEx 
  - NGitLab  NGitLab is a .NET REST client implementation of GitLab API with no external dependencies.    https://github.com/maikebing/NGitLab  
 - gitea.net .NET Library for the Gitea API.   https://github.com/mkloubert/gitea.net
+-  q2g-helper-pem-nuget  https://github.com/q2g/q2g-helper-pem-nuget/pull/13 
 
