@@ -46,4 +46,5 @@ The  Gitea Extension for Visual Studio provides Gitea integration in Visual Stud
  - NGitLab  NGitLab is a .NET REST client implementation of GitLab API with no external dependencies.    https://github.com/maikebing/NGitLab  
 - gitea.net .NET Library for the Gitea API.   https://github.com/mkloubert/gitea.net
 -  q2g-helper-pem-nuget  https://github.com/q2g/q2g-helper-pem-nuget/pull/13 
+-  LiteQueue  https://github.com/NomadeonSoftwareLLC/LiteQueue
 
