@@ -44,8 +44,14 @@ IoTSharp is an open-source IoT platform for data collection, processing, visuali
 MQTT.Chat broker is a fully open source, highly scalable, highly available distributed MQTT messaging broker for IoT
    
   
-### [docker_minigui](https://github.com/maikebing/docker_minigui)  A Minigui cross-compiled Docker image for continuous integration 
+### [docker_minigui](https://github.com/maikebing/docker_minigui)  
+
+A Minigui cross-compiled Docker image for continuous integration 
   
+### [IoTSharp.X509Extensions](https://github.com/IoTSharp/IoTSharp.X509Extensions)  
+
+We cloned q2g-helper-pem-nuget.Clear the other things that are not related to X509, and Nlog and so on. Added self-signed X509 functions, all of which will be used in iot#, while hope is useful for you. ...
+
 
 ### Localized  
 
