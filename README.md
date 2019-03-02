@@ -1,3 +1,5 @@
+title: MaiKeBing's Blogs
+
 ## Welcome to MaiKeBing's Blogs
 
 Hi, everyone, as you can see, My nick is maikebing(by english , wheat shell cake),other nick name is MysticBoy, Chinese named  Yanhong Ma。
