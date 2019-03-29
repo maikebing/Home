@@ -25,13 +25,13 @@ When I encounter any problems, I like open source solution, at the same time, I 
 
 ### [GitLab Extension for Visual Studio](https://github.com/maikebing/MQTTnet.AspNetCoreEx)
 
-The  GitLab Extension for Visual Studio provides GitLab integration in Visual Studio 2015/2017. Most of the extension UI lives in the Team Explorer pane, which is available from the View menu.The Visual Studio Extension is also available at the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MysticBoy.GitLabExtensionforVisualStudio), or by searching for RESX in the Visual Studio extension manager. The latest build of the Visual Studio Extension is available at the [Open VsixGallery](http://vsixgallery.com/extension/54803a44-49e0-4935-bba4-7d7d91682273/)
+The  GitLab Extension for Visual Studio provides GitLab integration in Visual Studio 2015/2017. Most of the extension UI lives in the Team Explorer pane, which is available from the View menu.The Visual Studio Extension is also available at the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MysticBoy.GitLabExtensionforVisualStudio), or by searching for GitLab in the Visual Studio extension manager. The latest build of the Visual Studio Extension is available at the [Open VsixGallery](http://vsixgallery.com/extension/54803a44-49e0-4935-bba4-7d7d91682273/)
 
 
 
 ### [Gitea Extension for Visual Studio](https://github.com/maikebing/Gitea.VisualStudio)
 
-The  Gitea Extension for Visual Studio provides Gitea integration in Visual Studio 2015/2017. Most of the extension UI lives in the Team Explorer pane, which is available from the View menu.The Visual Studio Extension is also available at the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MysticBoy.GiteaExtensionforVisualStudio), or by searching for RESX in the Visual Studio extension manager. 
+The  Gitea Extension for Visual Studio provides Gitea integration in Visual Studio 2015/2017. Most of the extension UI lives in the Team Explorer pane, which is available from the View menu.The Visual Studio Extension is also available at the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MysticBoy.GiteaExtensionforVisualStudio), or by searching for Gitea  in the Visual Studio extension manager. 
 
 ### [MQTTnet.AspNetCoreEx](https://github.com/maikebing/MQTTnet.AspNetCoreEx)
 
