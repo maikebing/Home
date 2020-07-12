@@ -2,40 +2,33 @@ title: MaiKeBing's Blogs
 
 ## Welcome to MaiKeBing's Blogs
 
-Hi, everyone, as you can see, My nick is maikebing(by english , wheat shell cake),other nick name is MysticBoy, Chinese named  Yanhong Ma。
+### [IoTSharp](https://github.com/IoTSharp/IoTSharp)
 
-嗨， 大家好， 正如你看到的 我的网名叫麦壳饼，还有一个叫 MysticBoy 中文名字叫马燕洪 ，
-
-
-
-July 11, 2018, I came to Beijing, thanks to the open source community to help, so I hope to be able to do more for the community to contribute. 
-
-2018年七月11日， 我来到了北京 感谢开源社区网友的帮忙， 因此 我希望能为社区做更多奉献。 
+IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
 
 
-March 2007 to July 2018：
+### [Silkier](https://github.com/maikebing/Silkier)
 
-I work in a company that provides software solutions for Xinjiang Highway Bureau..
+Silkier is a common collection of extensions. For example, retry, partitioning in parallel,ObjectPool，RestClient's extension, LITTLE-ENDIAN and BIG-ENDIAN coversions and more .....
 
-我当时在一家专门为新疆公路部门提供软件解决方案的公司工作。
+### [Maikebing.EntityFrameworkCore.Taos](https://github.com/maikebing/Maikebing.EntityFrameworkCore.Taos)
 
-When I encounter any problems, I like open source solution, at the same time, I am keen to contribute to the open source community,So I want to list some of the projects I'm involved in, and when I'm old enough to write code, these will be my best memories.
+Maikebing.Data.Taos 是一个采用TDengine的原生动态库构建的ADO.Net提供程序。 它将允许你通过.Net Core 访问TDengine 数据库。目前已经支持Linux 64位、Windows 64位、Windows 32位系统 .
 
-当我遇到任何问题 都喜欢使用开源解决方案， 与此同时， 我也为开源社区添砖加瓦 因此我想把我参与的一些项目列在这里 ， 当我老到不能写代码的时候  这一切将是我最美好的回忆。 
 
-### [GitLab Extension for Visual Studio](https://github.com/maikebing/MQTTnet.AspNetCoreEx)
+### [GitLab Extension for Visual Studio](https://github.com/maikebing/GitLab.VisualStudio)
 
 The  GitLab Extension for Visual Studio provides GitLab integration in Visual Studio 2015/2017/2019. Most of the extension UI lives in the Team Explorer pane, which is available from the View menu.The Visual Studio Extension is also available at the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MysticBoy.GitLabExtensionforVisualStudio), or by searching for GitLab in the Visual Studio extension manager. The latest build of the Visual Studio Extension is available at the [Open VsixGallery](http://vsixgallery.com/extension/54803a44-49e0-4935-bba4-7d7d91682273/)
 
+### [SilkierQuartz](https://github.com/maikebing/SilkierQuartz)
 
+  SilkierQuartz is a new after merging Quartzmin and QuartzHostedService! Quartz.NET is a full-featured, open source job scheduling system that can be used from smallest apps to large scale enterprise systems.Quartzmin Quartzmin is powerful, easy to use web management tool for Quartz.NET,QuartzHostedService QuartzHostedService is easy to host Quartz as service in .Net Core !So,SilkierQuartz can be used within your existing application with minimum effort as a Quartz.NET plugin when it automatically creates embedded web server. Or it can be plugged into your existing OWIN-based web application as a middleware.
 
 ### [MQTTnet.AspNetCoreEx](https://github.com/maikebing/MQTTnet.AspNetCoreEx)
 
   a MQTTnet.AspNetCore  extension ,Easier to use in asp.net Core mqttnet
  
-### [IoTSharp](https://github.com/IoTSharp/IoTSharp)
 
-IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
 
 ### [MQTT.Chat](https://github.com/IoTSharp/MQTT.Chat)
 
@@ -74,6 +67,8 @@ The  Gitea Extension for Visual Studio provides Gitea integration in Visual Stud
 
 
 ### Contributed
+- 
+-  TDengine   https://github.com/taosdata/TDengine/pull/2008
 -  EntityFrameworkCore.RawSQLExtensions  https://github.com/PaulARoy/EntityFrameworkCore.RawSQLExtensions Extensions to support raw SQL and stored procedures with custom entities mapping 
  - Diagram.NET   Diagram.NET is a free open-source diagramming tools written entirely in C#.  https://github.com/dalssoft/diagramnet 
  - ICSharpCode.TextEditorEx  Extended version based on ICSharpCode.TextEditor which supports    https://github.com/StefH/ICSharpCode.TextEditorEx 
