@@ -1,14 +1,14 @@
 ---
-title: nanoframework_stm32
+title: 用C#在STM32上写第一个Hello world
 date: 2020-11-04 23:42:40
-tags:
+tags: stm32 nanoframework
 ---
 
 随着微软放弃.Net MF ,通过C#编写STM32 平台上的程序变得渺茫， 但是， 别着急， 目前至少有两个社区在做这件事情， 传承了微软的.Net MF , 一家是 nanoframework,另外一家比较封闭的是 
 
 GHI Electronics 地址是: https://github.com/ghi-electronics GHI只支持自家设计生产的开发板， 不支持STM32其他厂商的开发板。因此最佳选择我认为是 nanoframework。 
 
-![img](https://img2020.cnblogs.com/blog/11491/202006/11491-20200617164559532-1936820770.png)
+![img](11491-20200617164559532-1936820770.png)
 
  
 
@@ -20,7 +20,7 @@ GHI Electronics 地址是: https://github.com/ghi-electronics GHI只支持自家
 
 一、安装VS2019 ，在扩展菜单中搜索 nanoframework 
 
-![img](https://img2020.cnblogs.com/blog/11491/202006/11491-20200617164612893-808848865.png)
+![img](11491-20200617164612893-808848865.png)
 
  
 
@@ -30,7 +30,7 @@ GHI Electronics 地址是: https://github.com/ghi-electronics GHI只支持自家
 
   选择开发板很重要， 直接意味着你是不是能完成这件事， 比如笔者， 买了三个开发板， 一个型号不对， 一个快递丢了， 最后只有一个能用， 型号是STM32F411E-DISCO,他是是ST公司推出的一款针对STM32F411设计的开发板，可帮助您探索STM32F4系列，轻松开发自己的应用，还提供有完善的资料能帮助所有初学者和有经验开发人员快速上手。STM32F411E-DISCO基于STM32F411VET6设计，集成了ST-LINK/V2仿真下载器（但仅对外提供SWD接口），免除您另外采购仿真器或下载器的麻烦；还增添了陀螺仪、电子罗盘、数字麦克风、音频解码芯片、OTG USB、 LED和按钮等外设，方便您学习开发。。详细资料你可以访问 https://www.st.com/zh/evaluation-tools/32f411ediscovery.html 来了解！
 
- ![img](https://img2020.cnblogs.com/blog/11491/202006/11491-20200617164621988-995703729.png)
+ ![img](11491-20200617164621988-995703729.png)
 
  
 
@@ -72,7 +72,7 @@ GHI Electronics 地址是: https://github.com/ghi-electronics GHI只支持自家
 
  
 
-![img](https://img2020.cnblogs.com/blog/11491/202006/11491-20200617164638630-1883157199.png)
+![img](11491-20200617164638630-1883157199.png)
 
  
 
@@ -80,7 +80,7 @@ GHI Electronics 地址是: https://github.com/ghi-electronics GHI只支持自家
 
 整体连接起来示意图如下:
 
-![img](https://img2020.cnblogs.com/blog/11491/202006/11491-20200617164649529-1593191659.png)
+![img](11491-20200617164649529-1593191659.png)
 
  
 
@@ -88,7 +88,7 @@ GHI Electronics 地址是: https://github.com/ghi-electronics GHI只支持自家
 
 红线接电 ， 黑线接地， 橙色线接PA3， 黄色线接在PA2,
 
-![img](https://img2020.cnblogs.com/blog/11491/202006/11491-20200617164701222-2046709492.png)
+![img](11491-20200617164701222-2046709492.png)
 
  
 
@@ -98,7 +98,7 @@ USB type A公口接笔记本， mini-B 公口从开发板上拔下来， 接在�
 
  
 
-![img](https://img2020.cnblogs.com/blog/11491/202006/11491-20200617164712298-820718079.png)
+![img](11491-20200617164712298-820718079.png)
 
  
 
@@ -110,7 +110,7 @@ USB type A公口接笔记本， mini-B 公口从开发板上拔下来， 接在�
 
 启动VS2019 , 确保之前扩展已经装好， 然后在视图菜单的 其他窗口中找到 Device Explorer ，如下图所示:
 
-![img](https://img2020.cnblogs.com/blog/11491/202006/11491-20200617164723658-1601326161.png)
+![img](11491-20200617164723658-1601326161.png)
 
  
 
@@ -120,7 +120,7 @@ USB type A公口接笔记本， mini-B 公口从开发板上拔下来， 接在�
 
 插上我们的开发板， 稍等片刻后自动寻找到开发板, 如下图所示:
 
-![img](https://img2020.cnblogs.com/blog/11491/202006/11491-20200617164732222-146933802.png)
+![img](11491-20200617164732222-146933802.png)
 
  
 
@@ -130,7 +130,7 @@ USB type A公口接笔记本， mini-B 公口从开发板上拔下来， 接在�
 
 现在开始， 我们创建第一个项目Hello World , 
 
-![img](https://img2020.cnblogs.com/blog/11491/202006/11491-20200617164739506-1665490202.png)
+![img](11491-20200617164739506-1665490202.png)
 
  
 
@@ -142,7 +142,7 @@ USB type A公口接笔记本， mini-B 公口从开发板上拔下来， 接在�
 
 如下图:
 
-![img](https://img2020.cnblogs.com/blog/11491/202006/11491-20200617164751275-1437115023.png)
+![img](11491-20200617164751275-1437115023.png)
 
  
 
@@ -152,7 +152,7 @@ USB type A公口接笔记本， mini-B 公口从开发板上拔下来， 接在�
 
 开始运行
 
-![img](https://img2020.cnblogs.com/blog/11491/202006/11491-20200617164800850-718371490.png)
+![img](11491-20200617164800850-718371490.png)
 
  
 
