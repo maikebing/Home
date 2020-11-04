@@ -1,7 +1,8 @@
 ---
 title: 如何在龙芯3B4000上部署基于.Net Core 开发的物联网平台IoTSharp
 date: 2020-11-05 00:39:47
-tags:龙芯 3B4000 IoTSharp 物联网平台
+tags: 龙芯 3B4000 IoTSharp 物联网平台
+top_img: 
 ---
 
 今天很开心的拿到了龙芯的测试服务器账号， 先上图show一下， 

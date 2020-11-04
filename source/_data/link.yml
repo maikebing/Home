@@ -1,0 +1,28 @@
+- class_name: 我的开源
+  class_desc: 这里是我的一些开源项目以及地址
+  link_list:
+    - name: IoTSharp
+      link: https://github.com/IoTSharp/IoTSharp
+      avatar: https://avatars2.githubusercontent.com/u/44353254?s=200&v=4
+      descr: IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
+    - name: Maikebing.EntityFrameworkCore.Taos
+      link: https://github.com/maikebing/Maikebing.EntityFrameworkCore.Taos
+      avatar: https://www.taosdata.com/images/taosdata-logo.png
+      descr: Maikebing.Data.Taos 是一个采用TDengine的原生动态库构建的ADO.Net提供程序。 它将允许你通过.Net Core 访问TDengine 数据库。
+
+- class_name: 我的博客
+  class_desc: 值得推荐的博客
+  link_list:
+    - name: 我的博客园
+      link: https://www.cnblogs.com/MysticBoy/
+      avatar: https://pic.cnblogs.com/avatar/11491/20190611141204.png
+      descr: 这是我的博客园
+    - name: Weibo
+      link: https://www.weibo.com/maikebing
+      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+      descr: 这是我的博客
+    - name: Twitter
+      link: https://twitter.com/maikebing
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 这是我的推特
+ 
