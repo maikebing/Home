@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: 麦壳饼的博客
+subtitle: 'If you’re going through hell, keep going.'
+description: 'Hi  my name is Yanhong Ma and I''m a .NET engineer and an Embedded C engineer.'
+keywords: IoT,C#,Linux,.Net,IotSharp
+author: 'Yanhong Ma'
+language: zh-cn
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: http://www.maikebing.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -37,7 +37,7 @@ default_layout: post
 titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
-  field: site # Apply to the whole site
+  field: maikebing # Apply to the whole site
   exclude: ''
 filename_case: 0
 render_drafts: false
@@ -103,4 +103,6 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/maikebing/Home.git
+  branch: gh-pages
